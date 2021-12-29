@@ -1,2 +1,2 @@
-# Automatizar_Verificacao_CNPJ
+# Automatizar_Verificação_CNPJ
 O objetivo desse projeto e automatizar uma tarefa chata e cansativa, ainda mais se houve muitos dados para serem analisadas, o caso em questão e a situação do cnpj como esta ele no Simei e o no Simples nacional, para a realização desse projeto eu fiz a raspagem de dados do site da receita federal, para que acabar com esse esforço repetitivo e cansativo, lembrando que o código pode ser usado em qualquer área e para qualquer automação, então vou deixar ele aqui para fiz de ajudar a comunidade gerando valor através de coisas que vão ajudar no dia a dia.
